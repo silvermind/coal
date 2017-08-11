@@ -19,8 +19,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake',       '~> 12.0.0'
 
   spec.add_dependency 'httpclient',             '~> 2.8.3'
-  spec.add_dependency 'faraday',                '~> 0.11.0'
-  spec.add_dependency 'faraday_middleware',     '~> 0.11.0.1'
+  spec.add_dependency 'faraday',                '~> 0.12.2'
+  spec.add_dependency 'faraday_middleware',     '~> 0.12.2'
   spec.add_dependency 'activesupport',          '~> 4.2.8'
 
   spec.required_ruby_version = '>= 2.0'
